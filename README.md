@@ -17,7 +17,7 @@ Turn a device ON for a period of 1 to 100 seconds using a 555.
 | 2 | 0.1uF (100nF) Capacitor |[AliExpress](http://s.click.aliexpress.com/e/byQG0DZW) |
 | 1 | 2 Pin Screw Terminal |[AliExpress](http://s.click.aliexpress.com/e/bj5UNUs0) |
 | 1 | 3 Pin Screw Terminal |[AliExpress](http://s.click.aliexpress.com/e/bj5UNUs0) |
-| 1 | Relay |[AliExpress](http://s.click.aliexpress.com/e/xyrHlu8) |
+| 1 | 12VDC Relay |[AliExpress](http://s.click.aliexpress.com/e/xyrHlu8) |
 | 1 | 12VDC Adapter |[AliExpress](http://s.click.aliexpress.com/e/V0x0bms) |
 | 1 | SPDT Slide Switch |[AliExpress](http://s.click.aliexpress.com/e/cDjWUvjK) |
 | 1 | PCB |[AliExpress](http://s.click.aliexpress.com/e/dhgwzKY) |
