@@ -32,7 +32,7 @@ Turn a device ON for a period of 1 to 100 seconds using a 555.
 ## Working
 **LM555/NE555:**
 
-The 555 is a highly stable device for generating accurate time delays or oscillation. Additional terminals are provided for triggering or resetting if desired. In the time delay mode of operation, the time is precisely controlled by one external resistor and capacitor. The circuit may be triggered and reset on falling waveforms, and he output circuit can source or sink up to 200mA or drive TTL circuits.
+The 555 is a highly stable device for generating accurate time delays or oscillation. Additional terminals are provided for triggering or resetting if desired. In the time delay mode of operation, the time is precisely controlled by one external resistor and capacitor. The circuit may be triggered and reset on falling waveforms, and the output circuit can source or sink up to 200mA or drive TTL circuits.
 
 ![Pinout](https://github.com/jonathanrjpereira/555-Timer-1sec-to-100sec/blob/master/img/pinout.png)
 ![Pin Description](https://github.com/jonathanrjpereira/555-Timer-1sec-to-100sec/blob/master/img/pindescription.png)
@@ -57,7 +57,7 @@ Separate input triggers are used to start and reset the timer. The RC network de
 
 The LM555 has a maximum typical supply voltage rating of 16V while the relay's armature coil is enabled at 12V. Hence a 12V power supply is used to minimize the number of components such as linear voltage regulators. When pin 2 of the LM555 is triggered (by shorting it to ground) through the momentary switch S1, the timer is started.
 
-The timer generates an output pulse with an ON time period determined by the RC network i.e t = 1.1RC . In this case the fixed value of the capacitor is 100uF. The value of R consists of a 10KΩ resistor in series with a 1MΩ potentiometer. We can vary the potentiometer to change the time period of the output pulse.
+The timer generates an output pulse with an ON time period determined by the RC network i.e t = 1.1RC . In this case, the fixed value of the capacitor is 100uF. The value of R consists of a 10KΩ resistor in series with a 1MΩ potentiometer. We can vary the potentiometer to change the time period of the output pulse.
 
 For example, if the potentiometer is set to 0Ω, the value of R is equal to 10KΩ.
 Hence t = 1.1 x 10K x 100u = 1 second.
