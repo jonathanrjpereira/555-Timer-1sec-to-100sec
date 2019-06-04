@@ -1,7 +1,11 @@
 # 555 Timer 1sec to 100sec
 Turn a device ON for a period of 1 to 100 seconds using a 555.
 
-**Order PCB:**
+**Full Video:**
+[![Siren Generator](https://img.youtube.com/vi/eH5MnaChGu0/maxresdefault.jpg)](https://youtu.be/eH5MnaChGu0)
+
+**Order PCB:**  [PCBWay](https://bit.ly/2ETyaRc)    
+
 
 ## Electronic Components
 | Qty | Component | Buy |
@@ -28,6 +32,9 @@ Turn a device ON for a period of 1 to 100 seconds using a 555.
 |Soldering Iron|[AliExpress](http://s.click.aliexpress.com/e/E83bSJI) |
 |Soldering Wire|[AliExpress](http://s.click.aliexpress.com/e/PdhB0nm) |
 |Mini PCB Hand Drill + Bits|[AliExpress](http://s.click.aliexpress.com/e/b93tomjI) |
+|Wire Cutter|[AliExpress](http://s.click.aliexpress.com/e/bHFL9vLi) |
+|Wire Stripper|[AliExpress](http://s.click.aliexpress.com/e/4yJWedw) |
+|Soldering Helping Hands|[AliExpress](http://s.click.aliexpress.com/e/cAQ2StNm) |
 
 ## Working
 **LM555/NE555:**
